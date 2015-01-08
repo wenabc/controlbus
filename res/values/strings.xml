@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Controls</string>
+	<string name="btn_submit">Submit</string>
+</resources>
